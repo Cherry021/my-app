@@ -1,6 +1,5 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Product } from './components/Product';
 import {createBrowserRouter, createRoutesFromElements, RouterProvider, Route} from 'react-router-dom';
 import { DashBoard } from './components/DashBoard';
 import { Cart } from './components/Cart';
